@@ -1,5 +1,5 @@
 procedure FullDisconnect;
 begin
-SetARStatus(false);
-Disconnect;
+  SetARStatus(false);
+  Disconnect;
 end; 
